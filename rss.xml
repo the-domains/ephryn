@@ -4,7 +4,7 @@
         <description><![CDATA[Ephryn 3.0]]></description>
         <link>https://thegrid.ai/ephryn/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 15:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 15:20:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ephryn/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/ephryn/b4a255e6-4837-4e92-b345-74b3342cdc61/index.html</link>
             <guid isPermaLink="false">b4a255e6-4837-4e92-b345-74b3342cdc61</guid>
             <pubDate>Wed, 17 Feb 2016 15:09:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I love that I have finally gotten access to this tool </p>]]></description>
-            <link>https://thegrid.ai/ephryn/c5015fdc-f410-4f03-b0ad-a91ab6cd7ca8/index.html</link>
-            <guid isPermaLink="false">c5015fdc-f410-4f03-b0ad-a91ab6cd7ca8</guid>
-            <pubDate>Wed, 17 Feb 2016 14:47:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
