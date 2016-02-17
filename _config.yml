@@ -2,6 +2,7 @@ name: Ephryn
 favicon: null
 layout_spectrum: 0.8111349553801119
 typography_spectrum: 0.7624591891653836
+title: Ephryn 3.0
 cta:
   domain: null
   bucket: null
